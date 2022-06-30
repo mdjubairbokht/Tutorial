@@ -5,6 +5,7 @@ public class main_LinkedIn {
 	public static void main(String[] args) {
 		
 		//Primitive Data Type //
+		// Test LinkenIn
 		
 		int studentAge = 15;
 		double studentGPA = 3.45;
