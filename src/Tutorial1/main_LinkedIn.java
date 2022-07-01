@@ -6,6 +6,7 @@ public class main_LinkedIn {
 		
 		//Primitive Data Type //
 		// Test LinkenIn
+		// Test LinkedIn 2
 		
 		int studentAge = 15;
 		double studentGPA = 3.45;
